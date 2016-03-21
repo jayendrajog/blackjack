@@ -1,0 +1,39 @@
+body{
+	background-color: #194D1E;
+}
+
+.title{
+	text-align: center;
+	color: white;
+}
+
+canvas {
+	margin-bottom: 7%;
+
+	margin-left: 3%;
+}
+
+.score{
+	color: white;
+	padding-left: 6%;
+}
+
+.moves{
+	margin-bottom: 5%;
+}
+
+button{
+	margin-left: 25%;
+
+	width: 100px;
+	background-color: white;
+}
+
+.btn-success-outline{
+	color: #5cb85c;
+	border-color: #5cb85c;
+}
+.btn-danger-outline{
+	color: #d9534f;
+	border-color: #d9534f;
+}
